@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'cellphone'
+}
+
+item {
+  id: 2
+  name: 'keyboard'
+}
+
+item {
+  id: 3
+  name: 'laptop'
+}
